@@ -1,0 +1,2 @@
+openpyxl # https://openpyxl.readthedocs.io/
+pandas # https://pandas.pydata.org/
